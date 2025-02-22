@@ -8,6 +8,7 @@ import LoginPage from "./pages/LogIn";
 import Home from "./pages/Home";
 import ContactUsPage from "./pages/ContactPage";
 import Footer from "./components/footer";
+import React from "react";
 
 
 function App() {
