@@ -1,7 +1,7 @@
 import React from "react";
 import { Container } from "react-bootstrap";
 import { Col,Row } from "react-bootstrap";
-import { Link } from "react-router";
+import { Link } from "react-router-dom";
 const LoginPage=()=> {
   return (
     <Container>
